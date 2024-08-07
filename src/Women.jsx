@@ -12,7 +12,7 @@ const Women = () => {
   const products = [
     {
       id: 7,
-      img: "/wm-kitten-heels.jpg",
+      img: "https://images.pexels.com/photos/137603/pexels-photo-137603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       name: "Women Kitten Heels",
       price: 79.9,
       originalPrice: 99.9,
@@ -20,7 +20,7 @@ const Women = () => {
     },
     {
       id: 8,
-      img: "/wm-loafers.jpg",
+      img: "https://images.pexels.com/photos/8165285/pexels-photo-8165285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       name: "Women Loafers Shoe",
       price: 89.9,
       originalPrice: 104.9,
@@ -28,7 +28,7 @@ const Women = () => {
     },
     {
       id: 9,
-      img: "/wm-pumps.jpg",
+      img: "https://images.pexels.com/photos/1667502/pexels-photo-1667502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       name: "Women Pumps shoe",
       price: 89.9,
       originalPrice: 104.9,
@@ -36,7 +36,7 @@ const Women = () => {
     },
     {
       id: 10,
-      img: "/wm-stilettos.jpg",
+      img: "https://images.pexels.com/photos/2918562/pexels-photo-2918562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       name: "Women Stilettos Shoe",
       price: 79.9,
       originalPrice: 99.9,
@@ -44,7 +44,7 @@ const Women = () => {
     },
     {
       id: 11,
-      img: "/wm-mules.jpg",
+      img: "https://images.pexels.com/photos/9595286/pexels-photo-9595286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       name: "Women Mules Shoe",
       price: 79.9,
       originalPrice: 99.9,
@@ -52,7 +52,7 @@ const Women = () => {
     },
     {
       id: 12,
-      img: "/wm-ballet-flats.jpg",
+      img: "https://images.pexels.com/photos/313705/pexels-photo-313705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       name: "Women Ballet Shoe",
       price: 89.9,
       originalPrice: 104.9,
